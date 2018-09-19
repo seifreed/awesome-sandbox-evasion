@@ -1,10 +1,10 @@
 # awesome-sandbox-evasion
 
-A summary about different projects/presentations to evade malware sandbox systems
+A summary about different projects/presentations/tools to test how to evade malware sandbox systems
 
 Tools to test malware sandbox systems:
 
-Windows:
+# Windows:
 
 - https://github.com/bi-zone/rdtsc-checkvirt-poc
 - https://github.com/a0rtega/pafish
@@ -17,16 +17,20 @@ Windows:
 - https://github.com/vysec/genHTA
 - https://github.com/CheckPointSW/InviZzzible
 
-Linux:
+# Linux:
 
 - https://github.com/srlkhmi/DeViL
 
-Android:
+# Android:
 
 - https://github.com/yzygitzh/ReDroid
 
-Presentations:
+# Presentations:
 
 - https://github.com/rrbranco/blackhat2012
 - https://github.com/CheckPointSW/InviZzzible/blob/master/conferences/Skuratovich_Chailytko-DefeatingSandboxEvasion.pdf
 - https://github.com/SilverMoonSecurity/SandboxEvasion/blob/master/summit2017-SandBox%20Evasion-v3.5.0-tailered.pptx
+
+# Academic papers
+
+- https://www.christian-rossow.de/publications/sandprint-raid2016.pdf
