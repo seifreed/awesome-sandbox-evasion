@@ -1,4 +1,4 @@
-# awesome-sandbox-evasion
+# Awesome Sandbox - Evasion
 
 A summary about different projects/presentations/tools to test how to evade malware sandbox systems
 
