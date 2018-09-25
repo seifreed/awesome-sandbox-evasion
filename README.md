@@ -34,3 +34,7 @@ Tools to test malware sandbox systems:
 # Academic papers
 
 - https://www.christian-rossow.de/publications/sandprint-raid2016.pdf
+
+# Research Projects
+
+- https://github.com/ricardojrdez/anti-analysis-tricks
