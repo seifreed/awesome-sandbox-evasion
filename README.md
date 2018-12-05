@@ -16,6 +16,7 @@ Tools to test malware sandbox systems:
 - https://github.com/sysopfb/VM_Timing_Detect
 - https://github.com/vysec/genHTA
 - https://github.com/CheckPointSW/InviZzzible
+- https://github.com/Arvanaghi/CheckPlease
 
 # Linux:
 
